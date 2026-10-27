@@ -1,0 +1,48 @@
+# Digital Privacy
+
+Digital privacy refers to protecting personal information shared or stored online. In today's digital world, people use smartphones, social media, online banking, shopping applications, and educational platforms every day. These services make life easier, but they also collect personal data. Therefore, digital privacy is essential for maintaining security, safety, and control over personal information.
+
+## 1. Why Digital Privacy Matters in Everyday Life
+
+Digital privacy helps protect information such as names, phone numbers, passwords, photographs, financial details, and location history. It prevents unauthorized access to personal accounts and reduces the chances of identity theft and online fraud.
+
+It also gives people control over how their information is collected, used, and shared. Protecting privacy builds trust between users and digital service providers.
+
+## 2. How Applications Collect and Process Personal Information
+
+Applications collect data in several ways:
+
+- User-provided information: Names, email addresses, phone numbers, photographs, and payment details entered during registration or use.
+- Device information: Device type, IP address, app usage, and technical information collected automatically.
+- Location and activity data: GPS location, browsing activity, search history, or interactions, depending on the app's permissions and settings.
+
+Applications process this information to personalize content, recommend products, improve services, analyze usage, and provide requested features. Some applications may also share data with advertisers or third-party service providers, depending on their privacy policies and applicable laws.
+
+## 3. Three Risks Associated with Careless Data Sharing
+
+1\. Identity Theft
+
+Criminals may misuse personal information to impersonate someone, create fraudulent accounts, or attempt to access financial services.
+
+2\. Privacy Violations
+
+Sharing personal photographs, location details, or private messages publicly may expose sensitive information to strangers or unwanted audiences.
+
+3\. Online Scams and Phishing
+
+Cybercriminals may use shared personal details to create convincing fake emails, messages, or websites designed to steal passwords and financial information.
+
+## 4. Practical Steps for Protecting Online Privacy
+
+1. Use strong passwords: Create unique passwords for different accounts and use a trusted password manager.
+2. Enable two-factor authentication: Add an extra layer of security to important accounts.
+3. Check app permissions: Allow access to your camera, microphone, contacts, and location only when necessary.
+4. Limit personal sharing: Avoid posting private documents, financial details, passwords, or live location publicly.
+5. Use secure connections: Avoid entering sensitive information on suspicious websites or unsecured public Wi-Fi networks.
+6. Keep software updated: Install security updates for operating systems, browsers, and applications.
+7. Review privacy settings: Control who can see your posts, profile information, and online activity.
+8. Recognize suspicious messages: Avoid unknown links, unexpected attachments, and requests for confidential information.
+
+## Conclusion
+
+Digital privacy is an important part of everyday life because it protects personal information, prevents misuse, and helps maintain online security. Although applications provide useful services, users must understand how their information is collected and processed. By using strong passwords, checking permissions, limiting data sharing, and recognizing online threats, individuals can protect themselves more effectively. Making informed digital decisions is essential for using technology safely, responsibly, and confidently.

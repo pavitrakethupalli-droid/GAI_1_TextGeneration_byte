@@ -1,0 +1,8 @@
+
+Generation method
+The available conversation history shows that the user entered prompts into ChatGPT and received text responses in the ChatGPT conversation interface. It does not show API requests, an SDK, a local model checkpoint, or an inference script.
+
+Therefore this project documents manual, hosted-interface generation. There is no honest inference script or notebook to provide for the historical outputs because no such code was used or evidenced. prompts.txt records the prompt text available from the conversation. The exact backend model version for each earlier response was not captured and is listed as unknown rather than guessed.
+
+For reproducibility, submit each prompt through the same service and record the date, visible model selection, settings, and full response. Re-generated outputs should be stored separately or clearly labelled; they must not be represented as the historical originals.
+

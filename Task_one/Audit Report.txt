@@ -1,0 +1,25 @@
+
+Task 1 audit report
+Audit date: 2026-10-27
+
+Evidence checked
+The conversation includes the complete 20-topic prompt list.
+The conversation history confirms that responses for topics 1–17 were worked on, but the full response text for those topics was not available to copy in this packaging run.
+Full response content for topics 18–20 was visible and copied into plain-text files, with interface-specific interactive/media elements converted into explanatory text where necessary.
+No official internship task PDF was found among the available conversation files or in the searched user file library.
+Public web search surfaced general AVIP 2026 program material but did not verify the exact Task 1 PDF, its rubric, or the required project naming convention.
+File inventory and checks
+Prompt entries: 20.
+Output files: 20.
+Empty output files: 0.
+Original response files recovered for this package: 3 (topics 18–20, as plain-text extractions).
+Recovery markers requiring replacement with originals: 17 (topics 01–17).
+Model name/version per historical response: not verified.
+API or local inference script: not applicable based on the evidenced manual ChatGPT method.
+Tests: run python validate_project.py; the expected result is structural success plus an explicit warning that original samples remain unrecovered.
+Still required before final submission
+Obtain and review the official internship PDF.
+Recover the original assistant responses for topics 01–17 and replace the marker files without rewriting or regenerating them.
+Verify exact model selection/version from original UI records if available; otherwise keep it documented as unknown.
+Confirm the official naming convention from the PDF or internship portal.
+Rerun the validator and review all files manually.

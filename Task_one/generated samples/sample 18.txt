@@ -1,0 +1,285 @@
+# AI Model Evaluation
+
+## 1. Introduction
+
+Artificial Intelligence (AI) models, especially large language models (LLMs), are used for answering questions, writing essays, generating code, summarising documents, and solving problems. However, different models may produce responses of different quality, and even the same model can make mistakes.
+
+AI model evaluation is the systematic process of measuring how well an AI model performs a particular task. It helps users determine whether a model produces relevant, accurate, clear, and instruction-compliant responses.
+
+Evaluation is important because a response may sound convincing while containing incorrect information or failing to follow the user's requirements.
+
+## 2. Why Do AI-Generated Responses Need Systematic Evaluation?
+
+Systematic evaluation helps users and organisations:
+
+1. Measure quality: Determine whether a model consistently produces useful responses.
+2. Identify errors: Detect incorrect facts, misleading explanations, and reasoning mistakes.
+3. Compare models: Understand which model performs better for a specific task.
+4. Improve reliability: Identify weaknesses that need correction.
+5. Support responsible use: Reduce the risk of relying on inaccurate or unsuitable information.
+6. Monitor consistency: Check whether response quality remains stable across different questions and situations.
+
+For example, an engineering student comparing two AI coding assistants should check whether their programs work correctly, explain the logic clearly, and follow the requested programming language.
+
+## 3. Four Important Evaluation Criteria
+
+### A. Relevance
+
+Relevance measures how closely a response addresses the user's actual question.
+
+A relevant response stays focused on the topic and includes information that helps answer the question.
+
+Example: If a student asks for three benefits of cloud computing, a relevant answer explains three benefits rather than discussing the entire history of the internet.
+
+### B. Factual Accuracy
+
+Factual accuracy measures whether the information in a response is correct and supported by reliable evidence.
+
+An accurate response should use correct definitions, calculations, dates, technical details, and references where appropriate.
+
+Example: If an AI assistant states that binary search has a worst-case time complexity of \\(O(n)\\) for a standard sorted array implementation, that claim is incorrect; the usual worst-case complexity is \\(O(\log n)\\).
+
+Accuracy should be checked using textbooks, official documentation, reliable research, or independent calculations rather than the model's confidence.
+
+### C. Coherence
+
+Coherence refers to how logically organised and understandable a response is.
+
+A coherent answer presents ideas in a sensible order, uses clear explanations, and avoids contradictions.
+
+Example: An explanation of data science should describe data collection, cleaning, analysis, and interpretation in a logical sequence.
+
+A response can be grammatically correct but still lack coherence if its ideas do not connect properly.
+
+### D. Instruction-Following
+
+Instruction-following measures how well a model follows the specific requirements given by the user.
+
+These requirements may include the topic, word limit, format, language, number of examples, or requested programming language.
+
+Example: If the user asks for a 200-word explanation with two examples, an answer containing 800 words and five examples does not follow the instructions, even if its information is accurate.
+
+## 4. A Simple Method for Comparing Two Language Models
+
+A student can compare two AI models using the same set of questions and a common scoring system.
+
+### Step 1: Prepare a Test Set
+
+Create 10–20 questions covering different tasks, such as:
+
+- Factual questions
+- Concept explanations
+- Mathematical problems
+- Programming tasks
+- Summarisation
+- Following specific instructions
+
+The questions should reflect the tasks for which the models will actually be used.
+
+### Step 2: Give Both Models the Same Prompts
+
+Use identical prompts, including the same constraints and supporting information. Where possible, keep model settings and available tools consistent.
+
+### Step 3: Collect the Responses
+
+Save both models' responses and label them Model A and Model B. If practical, hide the model names during scoring to reduce personal bias.
+
+### Step 4: Score Each Response
+
+Use a simple scale from 1 to 5.
+
+| Score | Meaning            |
+| ----- | ------------------ |
+| 1     | Very poor          |
+| 2     | Below expectations |
+| 3     | Acceptable         |
+| 4     | Good               |
+| 5     | Excellent          |
+
+Evaluate each response against the four criteria.
+
+## Interactive evaluation scorecard
+
+Try scoring two sample responses. Start at 3 for each criterion and change the scores to reflect the evidence.
+
+### Model A
+
+Relevance
+
+#### 3/5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Factual accuracy
+
+#### 3/5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Coherence
+
+#### 3/5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Instruction-following
+
+#### 3/5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Average score
+
+## 3.00 / 5
+
+### Model B
+
+Relevance
+
+#### 3/5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Factual accuracy
+
+#### 3/5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Coherence
+
+#### 3/5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Instruction-following
+
+#### 3/5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Average score
+
+## 3.00 / 5
+
+Current comparison
+
+Both models have the same average score.
+
+This scorecard illustrates the method. A meaningful real comparison requires scoring actual responses to the same test set and checking factual claims independently.
+
+Reset scores
+
+### Step 5: Calculate and Interpret the Results
+
+Calculate each model's average score for every criterion and across the full test set.
+
+For example, one model might produce clearer explanations, while another might be more accurate at programming tasks. The results should show both overall performance and strengths in specific categories.
+
+For code, mathematical answers, and factual questions, use objective checks whenever possible, such as running tests or verifying calculations.
+
+## 5. Why Can a Small Sample Produce Misleading Conclusions?
+
+A small test set may not represent how a model performs across different subjects, difficulty levels, and real-world situations.
+
+There are several reasons:
+
+- Limited coverage: Ten easy questions may not reveal weaknesses on advanced tasks.
+- Random variation: Some responses may be unusually good or poor.
+- Prompt sensitivity: Small changes in wording may produce different outputs.
+- Task imbalance: A test containing mostly writing questions may favour a model designed for that type of work.
+- Scoring bias: An evaluator may prefer a response because it sounds polished, even if its facts are incorrect.
+- Overgeneralisation: A model that performs well on one assignment may not be the best choice for every task.
+
+For example, Model A might score higher than Model B on five essay questions but perform worse on programming and mathematical problems. It would be misleading to conclude that Model A is universally better.
+
+A small sample can be useful for an initial comparison, but stronger conclusions require more varied and representative tests.
+
+## 6. Ways to Make Evaluation More Consistent and Fair
+
+The following practices improve the reliability of AI model comparisons.
+
+1. Use identical prompts: Both models should receive the same questions, information, and requirements.
+2. Create a representative test set: Include different topics, levels of difficulty, and task types.
+3. Define scoring criteria in advance: Write down what qualifies as a score of 1, 3, or 5 before evaluating responses.
+4. Use independent verification: Check facts against reliable sources and test code or calculations wherever possible.
+5. Reduce evaluator bias: Hide model identities during scoring and, where possible, use more than one evaluator.
+6. Repeat variable tests: Run multiple trials when model outputs can change between attempts.
+7. Report individual criteria: Do not rely only on an overall average; accuracy may matter more than writing style for some tasks.
+8. Record the test conditions: Document model versions, dates, settings, prompts, and tools used.
+9. Consider accessibility and fairness: Test whether performance differs across languages, user groups, or relevant contexts.
+10. Re-evaluate over time: Models and their capabilities change, so results should not be treated as permanently valid.
+
+The evaluation criteria should reflect the intended use. For a medical information assistant, factual accuracy and safety may be especially important. For a writing assistant, relevance, coherence, and instruction-following may receive greater emphasis.
+
+## 7. Conclusion
+
+AI model evaluation helps users determine whether generated responses are relevant, factually accurate, coherent, and compliant with instructions. Comparing two models requires identical prompts, clear scoring criteria, independent verification, and a representative range of tasks.
+
+Small samples can lead to misleading conclusions because they may not capture the full range of model capabilities and weaknesses. Fair evaluation therefore requires consistent methods, objective evidence, repeated testing where appropriate, and transparent reporting.
+
+In conclusion, no single response or small test can establish that an AI model is universally better than another. Reliable evaluation depends on systematic testing and choosing the model that best meets the needs of the specific task.

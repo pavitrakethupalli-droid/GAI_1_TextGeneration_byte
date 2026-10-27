@@ -1,0 +1,41 @@
+
+Command: python validate_project.py
+Exit code: 0
+
+STDOUT:
+Prompt headings: 20/20
+Expected sample files present: 20/20
+Empty sample files: 0
+Original-output recovery markers: 17
+Copied visible outputs (expected in this package): 3/20
+WARNING: Structural checks passed, but original outputs are still missing from these files:
+ - 01_ai_in_healthcare.txt
+ - 02_programming_language_selection.txt
+ - 03_environmental_technology.txt
+ - 04_ai_and_employment.txt
+ - 05_scientific_discovery.txt
+ - 06_digital_privacy.txt
+ - 07_learning_through_mistakes.txt
+ - 08_smart_cities.txt
+ - 09_scientific_reasoning.txt
+ - 10_educational_innovation.txt
+ - 11_cloud_computing.txt
+ - 12_critical_thinking.txt
+ - 13_renewable_energy.txt
+ - 14_data_science.txt
+ - 15_human_creativity_and_ai.txt
+ - 16_internet_of_things.txt
+ - 17_effective_study_techniques.txt
+Do not treat this package as a complete 20-output submission.
+
+STDERR:
+Spreadsheet runtime warmup failed during python startup
+Traceback (most recent call last):
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/patches/warm_spreadsheet_runtime_on_startup.py", line 26, in warm_spreadsheet_runtime_on_startup
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/spreadsheet_warmup.py", line 785, in warm_spreadsheet_runtime
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/spreadsheet_warmup.py", line 718, in _warm_feature_flows
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/spreadsheet_warmup.py", line 509, in _warm_drawing_and_image_flows
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/generated/interface/models.py", line 32861, in bring_to_front
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/rpc/remote.py", line 764, in __call__
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/rpc/client.py", line 175, in call
+artifact_tool.rpc.client.RemoteError: Element ordering requires an owning element collection.

@@ -1,0 +1,126 @@
+# Cloud Computing
+
+## 1. Introduction
+
+Cloud computing is a technology that allows users to store data, use software, and access computing resources over the internet instead of depending only on their own computers or mobile devices.
+
+In simple words, cloud computing means using computing services through the internet.
+
+For example, when a student saves an assignment in Google Drive and opens it later on a different computer, the file is stored online rather than only on the student's laptop.
+
+Other examples include Google Photos, Microsoft OneDrive, Gmail, and online coding platforms.
+
+## 2. Practical Examples of Cloud Computing
+
+[2.5: Essentials of Google Workspace - Workforce LibreTexts](https://images.openai.com/static-rsc-4/hIECH59EV9kw75xrMUqQtvmzjR_0DkBZSSPMA74OPu1u_u0pEMnuD2AYkqwvWauQUgU2xma5pbPQW_2-bx97Z3_R1HU5OQN-zHWZYGgOtYel4VNSNEGFFYLLRgUhuvaIsFaUQn60APx49stQ7Z-0s0lBFhlfzLOYpdqo7iyUkBs?purpose=inline)
+
+1\. Online File Storage
+
+A student uploads notes, assignments, and project files to Google Drive. These files can be accessed from different devices using the internet.
+
+[Google Docs Makes Live Edits More Accessible](https://images.openai.com/static-rsc-4/72fZgp4eo0Bvb809hsGaaEI-yX7vIiLNg-xQIYUsPvWooRJXkFu_uFi7O1OLrt4MMnS_mfhuZSZkGWTeHAwMXagR5NUYzV44087-2bQsQKRpqQ281vpKM4loju9vBTQkJO7AqGqkBwVdpFCHIOs8mL60LVqb2iPzvHGZf-kYly0?purpose=inline)
+
+2\. Online Software
+
+Students can create documents and spreadsheets using Google Docs or Microsoft 365 without relying entirely on software installed on their computers.
+
+[Best Online Degrees in Florida - 2026 Comparison | Nexford University](https://images.openai.com/static-rsc-4/kdqsjbqL3yzgnTcTY38xrieySx-tTD4tzJJNX5n1HVAVEBO0fWsVGePlV8oSGml_2tG7OJpX1u2iSw9cTjvs4l2HX-YE41dKuRh0IjIGkAmjrkBrj4VfIUGFmIlQ8GwMls4EVPvkJChXLUF4xrCV6vhjUHdenM77TEjFbV-GjB4?purpose=inline)
+
+3\. Online Collaboration
+
+Students can work together on a project using shared documents and video meetings without being in the same physical location.
+
+## 3. Difference Between Cloud Storage and Local Storage
+
+Cloud storage and local storage are two common ways of saving digital information.
+
+| Feature       | Cloud Storage                                               | Local Storage                                                 |
+| ------------- | ----------------------------------------------------------- | ------------------------------------------------------------- |
+| Meaning       | Data is stored on remote servers accessed over a network.   | Data is stored on a device you use or control.                |
+| Examples      | Google Drive, OneDrive, Dropbox                             | Laptop SSD, hard drive, USB drive                             |
+| Internet      | Usually needed to access or synchronise files.              | Usually not needed for files already stored locally.          |
+| Accessibility | Can be accessed from multiple devices with suitable access. | Usually accessed directly from the device or connected drive. |
+| Sharing       | Files can easily be shared online.                          | Sharing may require copying files or connecting a device.     |
+| Risks         | Online account attacks, service outages, privacy issues.    | Device damage, theft, loss, or drive failure.                 |
+
+Example: If an assignment is saved only on a laptop and the laptop stops working, the student may lose access to it. If the assignment is also backed up to cloud storage, the student may be able to recover it from another device.
+
+Using both cloud and local storage can provide extra protection.
+
+## 4. Three Benefits of Cloud Services for Students
+
+1\. Access from Anywhere
+
+Students can access notes, assignments, and learning materials from home, college, a library, or another location with internet access.
+
+2\. Easy Collaboration
+
+Multiple students can edit shared documents, exchange ideas, and complete group projects. This reduces the need to send many separate file copies.
+
+3\. Saves Device Space and Supports Backup
+
+Files can be stored online, reducing the need to keep every file on a laptop. Cloud synchronisation and backup features can also help recover files if a device is lost or damaged, depending on the service and its settings.
+
+## 5. Security Concerns and Internet Access
+
+Although cloud computing is useful, it has some limitations and risks.
+
+### A. Security Concerns
+
+- Data breaches: Unauthorised people may gain access to stored information.
+- Account hacking: Weak passwords or stolen login details can expose personal files.
+- Privacy risks: Sensitive academic or personal information may be exposed if sharing permissions are configured incorrectly.
+- Service failures: A cloud provider may experience technical problems that temporarily prevent access to files.
+
+Precautions: Use strong, unique passwords, enable two-factor authentication, check sharing permissions, and keep separate backups of important files.
+
+### B. Internet Access Problems
+
+- Cloud services often require a stable internet connection.
+- Slow internet may make uploading or downloading large files difficult.
+- Students with limited connectivity may struggle to attend online classes or use cloud-based applications.
+- Some services provide offline modes, but these must often be enabled in advance and may have limited features.
+
+For example, a student working in an area with poor network coverage may be unable to open an online assignment. Keeping an offline copy of important materials can help overcome this problem.
+
+## 6. Common Applications of Cloud Computing
+
+[Mantén tus fotos y vídeos a salvo con estos cinco servicios de almacenamiento en la nube](https://images.openai.com/static-rsc-4/CrpdqZtQ-6463ePLaXz2QFRpO7hFhnF2nq2jaFUY_p5I4JpXI0PI03vmdRhcTLdVa9d7sJ3qT-rE8x0SYIjBrn7F4Jp9K4QThye6QC3vN9Z1F6wIpye5L96SNPZZb4_CWNkzIzcdhfsAd2tb2pivZ7oQPxJiqNHuF29zaPVF5hg?purpose=inline)
+
+Cloud Storage and Backup
+
+Examples: Google Drive, Dropbox, Microsoft OneDrive.
+
+[Gmail New 2020 Logo PNG (Transparent) SVG AI – Free Download](https://images.openai.com/static-rsc-4/1Hbj2BNKA46lYOXKSmUqF1xcAyLiHwCPIajMCy5J3Z8gjE5CuHIs3VjLlHgUZC8EzpJtDlfgCOCGir3PmJZwexXhjrKdkjh30QvJwZcUM23A8p0lCjZGzvk-z8U3OYfHlowu03dmWIDEpJDcP0T8Yez7r7CutqXJWAT3Z0UTDEs?purpose=inline)
+
+Email and Communication
+
+Examples: Gmail, Microsoft Teams, Zoom.
+
+[How to send email using Google Docs in 4 simple steps](https://images.openai.com/static-rsc-4/4TlNZgoWuZVtyNFZXl1XXF_WShZvAJS4zhKlMOG6JFZSonT3XoZ8VT9Qga9CPFxpqQOF2jLyKRuujZtCQ4z92vTcWIw4L3H3L2JkgaGGvZXTOO0rd7ajGygakAQP6XbsjAyfMOMWAHjXD3K84cJBzf9bvTagk7_z0z5h1UooH2U?purpose=inline)
+
+Online Productivity Tools
+
+Examples: Google Docs, Google Sheets, Microsoft 365.
+
+[Amazon Data Centers](https://images.openai.com/static-rsc-4/d6DGX6kMD-zjMq1ujSDgdTMimkSdReisJtXmaCSln9Qm8E-nYiHWttoxg-fuAFzZWupteKO9SOTqP2QUnAelTTRe6FJBjC2WLUZ_QuHLkx9gvCWprDH9jIXmhzk_JhNY68ca544Dae7r-QGgdXyIAS_iPgyan2tfhHt4k8v5wl4?purpose=inline)
+
+Web Hosting and Computing
+
+Examples: Amazon Web Services (AWS), Microsoft Azure, Google Cloud.
+
+[Plataformas Moodle - Sydtech | E-learning Profesional](https://images.openai.com/static-rsc-4/g_mACNF3_Dpm83CZAPc5M8AN8bbRHMVcvXo5_YU8bh5vooYoYvEHhIWOwDrN30I24s25QPIDFmSliP0UNHg7hTvyGQcaGfZ1PQYgcWR2CQgzlOrE-DLp0zDhzT-zFOOvJ_eNlMTmKJ5Eopu2DQ0BuhcIk6iYbDz3aPHZBNIciNI?purpose=inline)
+
+Online Education
+
+Examples: learning management systems, virtual classrooms, and online coding environments.
+
+Cloud computing is also used in healthcare, banking, online shopping, entertainment streaming, scientific research, and artificial intelligence.
+
+## 7. Conclusion
+
+Cloud computing makes it possible to store information, run applications, and access computing resources over the internet. It helps students access learning materials from different devices, collaborate on projects, and back up important files.
+
+However, security, privacy, internet availability, and service reliability must be considered. By following safe practices and keeping offline copies of essential materials, students can use cloud services effectively.
+
+In conclusion, cloud computing is an important technology that supports modern education, communication, business, and everyday digital activities.

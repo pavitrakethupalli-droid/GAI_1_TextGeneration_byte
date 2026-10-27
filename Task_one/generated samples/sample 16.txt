@@ -1,0 +1,148 @@
+# Internet of Things (IoT)
+
+## 1. Introduction
+
+The Internet of Things (IoT) is a technology that connects physical devices to the internet so they can collect, exchange, and use data. These devices may include household appliances, watches, vehicles, cameras, and industrial machines.
+
+IoT allows devices to monitor their surroundings, communicate with other systems, and perform certain tasks automatically with limited human intervention.
+
+For example, a smartwatch can measure a person's heart rate and display the readings on a mobile phone. Similarly, a smart air conditioner can adjust the room temperature according to its settings.
+
+## 2. Everyday Examples of IoT
+
+[Cómo los dispositivos wearables mejoran el manejo de enfermedades crónicas - Blog de Healify](https://images.openai.com/static-rsc-4/R6_nZATMGd0U04BfLdF7E3Y82FnA6OjDka2L85c_-t-oitf8DAn4kj4-rzbqPLJW9v7AmnDBe1-oEfkKNdgbdphit2aiNGBZXyErSP-oY51gGS6uNzAdhiTA5gwBXQJw7Xwq43BHKE-o8x0xbMRivU8g0zMWh42K1RVtyMFk4O8?purpose=inline)
+
+1\. Smartwatches
+
+Smartwatches use sensors to measure activity, heart rate, and other available health indicators. They can synchronise this information with a smartphone.
+
+[Handcrafted Shungite for EMF Protection & Wellness | Growing Healing](https://images.openai.com/static-rsc-4/7jGiawMrRtiY6PoFQiKpdJcWFjr5flcvj-_DHGcyas1Ns2IkUD3EsN6dKrTZG0QzhUe8ksDact9VYdok2AX2lXdgv-jCZbDEn1fD3TELMzdXQ8X36hQc4NTPEDEj_ToMgBV0c6mp_gocxj8X1HVPkDHigl68hXVSWdloRObAm6o?purpose=inline)
+
+2\. Smart Home Devices
+
+Smart lights, thermostats, and plugs can be controlled through mobile applications or configured to operate automatically.
+
+[Ultimate Guide to Global IoT SIM Cards | Cellhire](https://images.openai.com/static-rsc-4/UL5_GYF8ARcV1sDaWEuVHBtc1uJ0Pzzcg7GclswntUWF4TDK4cs49mEpoRFlwLorQP100mCGpsAoAxaj4dDYdAHUz59evy4TtavSGv71sCUHWK-jLNVfcsVUZyZaj9H5LAqZc1cps8knBczVRfIcs2jG1r1PDfRA88mK9Q7c1V8?purpose=inline)
+
+3\. Smart Agriculture
+
+Soil-moisture sensors measure water levels in the soil and can help farmers decide when irrigation is needed.
+
+[Saffire EV | L5 Electric Auto & Electric Three-Wheeler Brand](https://images.openai.com/static-rsc-4/OOrGlY15jait0C0_2XqvWY9zKturr4A543_FrTbXGVvJFtaFiJE87uwCQ5J6T2LuYwg6kpPoRsfncDWWtOXSKbrJm2Y9uF9MEbO7roQe9XB8qeQiTpLLxW7pFw_60NgEUINFXd8dUWBsYZ-ge1Ct8Kwk1fqroI-7XWZJ-gA0Lag?purpose=inline)
+
+4\. Connected Vehicles
+
+Connected vehicle systems can transmit location, maintenance, and vehicle-performance information to supported applications or service providers.
+
+These examples show how IoT connects physical objects with digital systems to make everyday activities more convenient and efficient.
+
+## 3. How Connected Devices Collect and Exchange Information
+
+IoT systems generally work through four main stages.
+
+1\. Sensors and Devices
+
+Collect data such as temperature, movement, light, or moisture.
+
+2\. Network Connection
+
+Transmit information using Wi-Fi, Bluetooth, cellular networks, or other communication technologies.
+
+3\. Data Processing
+
+A device, gateway, or cloud service analyses the information and determines an appropriate action.
+
+4\. Action or Notification
+
+The system adjusts a device, sends an alert, or displays information to the user.
+
+### Practical example: Smart irrigation
+
+Suppose a farmer installs a soil-moisture sensor in a field.
+
+1. The sensor measures the moisture level.
+2. The device sends the reading to a controller through a supported network.
+3. The controller compares the reading with a configured moisture threshold.
+4. If the soil is too dry, the system can activate irrigation and notify the farmer.
+
+This process can reduce unnecessary watering and make irrigation management more efficient. Some IoT systems process data locally, so they can perform essential functions even when an internet connection is unavailable.
+
+## 4. Applications of IoT in Smart Homes
+
+A smart home uses connected devices to automate and manage household activities.
+
+Important applications include:
+
+- Smart lighting: Lights can be scheduled or controlled remotely.
+- Temperature control: Smart thermostats can adjust heating or cooling according to configured settings.
+- Home security: Connected cameras, door sensors, and smart locks can provide alerts and remote monitoring.
+- Energy management: Smart meters and plugs can help monitor electricity consumption.
+- Smart appliances: Supported washing machines, refrigerators, and other appliances can report their status or allow remote control.
+
+Example: A homeowner can use a mobile application to switch off a connected light or receive an alert when a door sensor detects unexpected opening.
+
+These applications improve convenience and may help save energy. However, their benefits depend on correct configuration, reliable connectivity, and appropriate security.
+
+## 5. Applications of IoT in Industrial Automation
+
+Industrial IoT connects machinery, sensors, controllers, and monitoring systems in factories and other industrial environments.
+
+[Automation Control | swtsco.com](https://images.openai.com/static-rsc-4/fcLKTFwcKihebFnx4_nKISwMEfBTh7WCAJ0a_r0Jgh_5V0BK2E0ubWQkmCOQX1L7WSq125Geq0UfPNDz3bdhF-Ket1iXHPo2sqQXY71raTJcXf3lmYQ4SS5x4NZxTXJ1JCWvchLutOivETI42Y4opyG82ok-AxbLoscRdbBOxxE?purpose=inline)
+
+[swtsco.com](https://www.swtsco.com/automation-control?utm_source=chatgpt.com)
+
+Common applications include:
+
+1. Predictive maintenance: Sensors monitor vibration, temperature, or other machine conditions to help identify possible equipment problems before failure.
+2. Production monitoring: Connected devices measure production speed, machine status, and output.
+3. Quality control: Sensors can identify unusual measurements or process variations during manufacturing.
+4. Inventory tracking: Connected tags and sensors help monitor the movement and availability of materials.
+5. Energy management: Systems monitor electricity consumption and identify opportunities to improve efficiency.
+6. Worker safety: Sensors can monitor environmental conditions and provide warnings about certain workplace hazards.
+
+For example, a temperature sensor on an industrial motor may alert technicians when the motor becomes unusually hot. Maintenance staff can investigate the issue before it causes a production interruption.
+
+Industrial IoT can improve productivity, reduce downtime, and support better decision-making, but it requires careful integration with existing machinery and safety systems.
+
+## 6. Security Risks Associated with IoT Devices
+
+Although IoT offers many benefits, connecting physical devices to networks creates security and privacy risks.
+
+1\. Weak Passwords: Devices using default or easily guessed passwords may be accessed by unauthorised people.
+
+2\. Outdated Software: Devices that do not receive security updates may contain vulnerabilities that attackers can exploit.
+
+3\. Unauthorised Access: Poorly secured cameras, locks, or industrial controllers could be accessed or controlled without permission.
+
+4\. Data Privacy: Smart devices may collect sensitive information about people's activities, locations, routines, or health indicators.
+
+5\. Insecure Networks: A poorly protected Wi-Fi network can expose connected devices to additional risks.
+
+6\. Malware and Botnets: Compromised IoT devices can be used to attack other systems or participate in large-scale malicious activity.
+
+7\. Physical Safety Risks: If a connected device controls machinery, heating, access systems, or industrial equipment, a cyberattack or malfunction could create real-world hazards.
+
+## 7. Practical Measures for Making IoT Systems More Secure
+
+The following practices can reduce the risks associated with connected devices.
+
+- Change default passwords: Use strong, unique passwords for each device and its associated account.
+- Enable multi-factor authentication: Use it wherever the device or service supports it.
+- Install security updates: Keep device firmware, mobile applications, and router software up to date.
+- Secure the Wi-Fi network: Use WPA2 or WPA3 security where supported, with a strong network password.
+- Separate IoT devices: Where practical, place smart devices on a separate guest or IoT network instead of the network used for sensitive computers and files.
+- Disable unnecessary features: Turn off unused remote access, services, and permissions.
+- Protect personal data: Review privacy settings and limit collection or sharing to what is necessary.
+- Buy supported devices: Prefer products from manufacturers that provide security updates and clearly explain their support periods.
+- Monitor connected devices: Review account activity, device lists, and security alerts.
+- Protect industrial systems: Restrict access to controllers, segment operational networks, maintain backups, and test security changes carefully so they do not disrupt safety-critical operations.
+
+Security should be considered throughout the life of an IoT device, from initial installation to updates and eventual replacement.
+
+## 8. Conclusion
+
+The Internet of Things connects physical devices to digital networks so they can collect, exchange, and process information. Everyday examples include smartwatches, connected lights, agricultural sensors, and smart appliances.
+
+IoT has important applications in smart homes and industrial automation, where it can improve convenience, productivity, energy efficiency, and equipment monitoring. However, weak passwords, outdated software, privacy violations, and unauthorised access can create serious risks.
+
+In conclusion, IoT can make homes, industries, and communities smarter when connected devices are designed, configured, and maintained securely.

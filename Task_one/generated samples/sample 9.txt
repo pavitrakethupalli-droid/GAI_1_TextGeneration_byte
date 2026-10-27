@@ -1,0 +1,81 @@
+# Scientific Reasoning: Correlation vs Causation
+
+Scientific reasoning helps us understand relationships between different variables and determine why certain events occur. Two important concepts in scientific research are correlation and causation. Although they are related, they have different meanings.
+
+## 1. Difference Between Correlation and Causation
+
+Correlation means that two variables change in a related way. When one variable changes, the other may also change.
+
+Causation means that a change in one variable directly produces or contributes to a change in another variable.
+
+| Correlation                                         | Causation                                                 |
+| --------------------------------------------------- | --------------------------------------------------------- |
+| Shows a relationship between variables.             | Shows a cause-and-effect relationship.                    |
+| Does not prove that one variable causes the other.  | Requires evidence that one variable influences the other. |
+| Can occur because of coincidence or another factor. | Must be supported by appropriate scientific evidence.     |
+
+Drag points
+
+2468102468\\(X\\)\\(Y\\)
+
+Linear correlation is positive (r = 0.98).
+
+NegativeNear zeroPositive
+
+Give feedback
+
+## 2. Example of Two Variables That Appear Related
+
+Consider the relationship between ice cream sales and swimming pool visits during summer.
+
+- When ice cream sales increase, swimming pool visits also tend to increase.
+- These two variables show a positive correlation.
+- However, buying ice cream does not necessarily cause people to visit swimming pools.
+
+The common factor is hot weather. During hot weather, people may buy more ice cream and visit swimming pools more frequently.
+
+This example shows that two variables can be related without one causing the other.
+
+## 3. Why Correlation Alone Cannot Prove Causation
+
+Correlation alone is insufficient to establish cause and effect for three main reasons.
+
+1\. A third variable may be involved
+
+An additional factor may influence both variables. For example, hot weather increases both ice cream sales and swimming pool visits.
+
+2\. The direction of influence may be unclear
+
+If students who study more also score higher marks, studying may help improve performance. However, other factors, such as prior knowledge or access to resources, may also contribute.
+
+3\. The relationship may be coincidental
+
+Two variables may appear related simply by chance, especially when many variables are examined.
+
+Therefore, researchers must investigate the relationship carefully before concluding that one variable causes another.
+
+## 4. How Researchers Investigate Possible Causal Relationships
+
+Researchers use several scientific methods to determine whether a causal relationship exists.
+
+1. Form a hypothesis: State a possible cause-and-effect relationship. For example, regular practice improves programming skills.
+2. Conduct controlled experiments: Divide participants into groups where possible and compare outcomes under different conditions.
+3. Control other variables: Keep other relevant factors similar or measure them carefully.
+4. Collect and analyze data: Use statistical methods to determine whether the observed differences are meaningful.
+5. Repeat the study: Check whether similar results occur in repeated experiments or independent studies.
+6. Evaluate alternative explanations: Consider other factors that could explain the results.
+
+### Simple example: Does practice improve programming skills?
+
+Suppose a researcher wants to find out whether practising programming daily improves students' performance.
+
+- Group A follows a regular programming practice schedule.
+- Group B follows the usual study routine.
+- Both groups complete the same type of programming assessment.
+- The researcher compares their results while considering prior knowledge, teaching quality, and time spent studying.
+
+If the study is designed carefully and Group A consistently performs better, this provides evidence that regular practice may improve programming skills.
+
+## Conclusion
+
+Correlation identifies a relationship between variables, whereas causation explains a cause-and-effect connection. Two variables may change together because of a third factor, coincidence, or other influences. Researchers investigate possible causal relationships through controlled experiments, careful data analysis, repeated studies, and evaluation of alternative explanations. Scientific reasoning requires evidence rather than assumptions, helping us reach reliable and logical conclusions about the world.

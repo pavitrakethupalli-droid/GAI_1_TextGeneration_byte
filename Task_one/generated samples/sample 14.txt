@@ -1,0 +1,161 @@
+# Data Science
+
+## 1. Introduction
+
+Data science is a field that uses scientific methods, statistics, mathematics, and computer programming to collect, process, analyse, and interpret data. Its main purpose is to discover useful patterns and information that help people make better decisions.
+
+Organisations generate large amounts of data through websites, mobile applications, business transactions, surveys, and other activities. Data science helps turn this raw information into meaningful insights.
+
+For example, a college can analyse students' attendance, assignment marks, and examination results to identify learning difficulties and improve teaching methods.
+
+## 2. Why Do Organisations Use Data Science?
+
+Organisations use data science for several purposes:
+
+1. Better decision-making: Helps organisations make decisions based on evidence rather than guesses.
+2. Predicting future trends: Uses historical data to estimate future demand, sales, or performance.
+3. Understanding customers: Identifies customer preferences and behaviour.
+4. Improving efficiency: Detects delays, errors, and opportunities to save time and resources.
+5. Detecting fraud: Identifies unusual transactions and suspicious activities.
+6. Personalisation: Recommends products, services, or learning materials according to individual needs.
+
+For example, an online shopping company can analyse previous purchases to recommend products that may interest its customers.
+
+## 3. Stages of Data Science
+
+Data science generally involves several connected stages, from collecting raw data to communicating the results.
+
+Stage 1: Data Collection
+
+Gather information from surveys, databases, sensors, websites, or academic records.
+
+Stage 2: Data Cleaning
+
+Correct errors, handle missing values, remove duplicate records, and standardise formats.
+
+Stage 3: Data Analysis
+
+Apply statistical methods, comparisons, and suitable algorithms to identify patterns and relationships.
+
+Stage 4: Data Visualisation
+
+Present the findings using charts, graphs, and dashboards.
+
+Stage 5: Interpretation and Decision-Making
+
+Explain what the findings mean and recommend suitable actions.
+
+### A. Data Collection
+
+Data collection is the process of gathering relevant information for a particular problem.
+
+Common methods include:
+
+- Online and paper surveys
+- Interviews and observations
+- School or college databases
+- Website and application activity
+- Sensors and other digital devices
+
+The collected data must be relevant, sufficiently accurate, and obtained appropriately.
+
+### B. Data Cleaning
+
+Raw data may contain missing values, duplicate entries, incorrect marks, or inconsistent formats. Data cleaning improves its quality before analysis.
+
+For example, if a student's examination mark is recorded as 105 out of 100 because of an entry error, the record should be checked against the original result.
+
+Cleaning can involve correcting verified errors, handling missing information, removing duplicates, and making data formats consistent. Missing values should not be filled with guesses without a justified method.
+
+### C. Data Analysis
+
+Data analysis involves examining the cleaned data to answer questions and discover useful patterns.
+
+Common techniques include:
+
+- Descriptive analysis: Summarises information, such as average examination marks.
+- Diagnostic analysis: Investigates possible reasons for a change in performance.
+- Predictive analysis: Estimates possible future outcomes using historical data.
+- Statistical analysis: Measures differences, relationships, and patterns in the data.
+
+The method chosen depends on the question being investigated and the quality of the available data.
+
+## 4. Example: Analysing Student Academic Performance
+
+Consider a college that wants to understand student performance and identify students who may need additional academic support.
+
+The college collects information about attendance, assignment scores, practice-test results, and final examination marks.
+
+The following table contains illustrative data for five students.
+
+| Student | Attendance | Assignment Score (%) | Exam Score (%) |
+| ------- | ---------- | -------------------- | -------------- |
+| A       | 95%        | 90%                  | 92%            |
+| B       | 85%        | 78%                  | 80%            |
+| C       | 65%        | 60%                  | 58%            |
+| D       | 90%        | 85%                  | 88%            |
+| E       | 70%        | 65%                  | 62%            |
+
+### Analysis of the data
+
+- Student A has high attendance and strong assignment and examination results.
+- Student C has lower attendance and examination performance than the other students in this example.
+- Student E also has comparatively lower scores and may benefit from additional practice.
+- Students B and D demonstrate different levels of academic performance.
+
+These patterns may help teachers decide where to offer tutoring, revision sessions, or additional learning resources.
+
+However, this small dataset does not prove that low attendance causes lower marks. Other factors, such as health, access to learning materials, subject difficulty, or personal circumstances, may also influence performance.
+
+The college should investigate further and discuss support needs with students before making decisions.
+
+## 5. How Data Visualisation Helps Communicate Findings
+
+Data visualisation means presenting data through visual formats such as bar charts, line graphs, pie charts, and dashboards.
+
+It helps people understand complex information more quickly than reading large tables of numbers.
+
+[Review of Best Practices in Data Visualization – Writing Arguments in STEM](https://images.openai.com/static-rsc-4/_RWWYyZCVY89zLFr3tOQ0u2pBhJ3Y6m_w5VYPiZCFu77x6yBQRU4KS7yMSnNFoieSSPJJc5IM5fHYc2DX-mf74w0_iCYrF8CoZbayN2o2JG6-pjX3EvTlZbbOYQXGsenhlaaGMDACf3b3XB8Ddc-2Sn8BWh9c8B4dXUenBqEeJw?purpose=inline)
+
+1\. Bar Charts
+
+Compare examination marks across students or subjects, making differences easy to identify.
+
+[How to Raise a 2.5 GPA to 3.0: Math + Semester Plan | GPA Calculator | GPA Calculator](https://images.openai.com/static-rsc-4/RMjzo2p9qtsPZTHNgO8YRqZ9lyDDUwiZulshLzoeeEyKluvCqx5usE94cPtSJuw5Iwm2cAaKoYnc4_cBCn0uQ2NxF9SHFyhhlcRGIdKPSVCuYJ6ptNPW5Vp03zZ5qebx-lzRCQwWThYkBX8kwIcQJot8X2QwdrOp3GwNheaYsQU?purpose=inline)
+
+2\. Line Graphs
+
+Show how marks, attendance, or class averages change over several weeks or semesters.
+
+[Pear Assessment | Pear Deck Learning](https://images.openai.com/static-rsc-4/6B3S9kpG7xPevoN3PR7Pw0207kcPKxzxR0pkFMhEgNbJl3AyvzKWAeX7o4VChvInQn895BrC4np75tyVLRtyGrEqDN3gye72w1dQMIhEUHwUxlEMTB8H5vgqcujEigXq0laV_dZ2x6wI09vO-Ozws7aJ-AlSYuFPXjVmLxKQWcE?purpose=inline)
+
+3\. Dashboards
+
+Combine important measures, such as attendance, assignment completion, and examination results, into one view.
+
+Data visualisation supports decision-making by highlighting trends, unusual values, and areas that need attention. Clear labels, appropriate scales, and accurate data are essential to avoid misleading viewers.
+
+## 6. Privacy and Responsible Data Handling
+
+Data science often involves personal information. Therefore, organisations must handle data carefully and responsibly.
+
+Important practices include:
+
+1. Protect personal information: Secure names, contact details, examination records, and other sensitive information.
+2. Obtain appropriate consent: Explain what information is collected and why, and follow applicable laws and institutional policies.
+3. Limit data collection: Collect only the information needed for the stated purpose.
+4. Maintain data security: Use encryption, strong authentication, access controls, and secure storage.
+5. Anonymise or minimise identifiers: Remove or reduce identifying information when individual identities are not necessary. Anonymisation must be effective, since some datasets can still be re-identified.
+6. Prevent unfair bias: Check whether data or analytical methods unfairly disadvantage particular groups.
+7. Use data transparently: Explain how findings are used and allow errors to be corrected where appropriate.
+8. Avoid harmful decisions: Do not rely solely on an algorithm to make important decisions about a student's future.
+
+For example, a college should not publicly display a list of students with low examination marks. Instead, it should provide confidential feedback and appropriate academic support.
+
+## 7. Conclusion
+
+Data science is an important field that helps organisations convert raw data into useful knowledge. Its main stages include data collection, cleaning, analysis, visualisation, and interpretation.
+
+In education, data science can help colleges understand academic performance, identify learning difficulties, and improve teaching methods. Visualisation makes findings easier to understand, while responsible data handling protects privacy and promotes fairness.
+
+In conclusion, data science is most valuable when accurate data, suitable analytical methods, clear communication, and responsible human judgement are used together to make informed decisions.

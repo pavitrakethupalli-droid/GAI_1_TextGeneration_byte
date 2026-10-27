@@ -1,0 +1,180 @@
+
+AVIP 2026 Generative AI Internship — Task 1
+Exact prompt text available from the conversation history.
+Prompts 18–20 reproduce the later submitted versions, including their original spelling/line breaks where visible.
+
+
+
+1. AI in Healthcare
+Explain how artificial intelligence is transforming modern healthcare.
+Describe three applications, such as medical imaging and patient monitoring.
+Explain how AI can help healthcare professionals make decisions.
+Discuss potential risks involving privacy and incorrect predictions.
+Conclude with the importance of human supervision.
+
+==============================================================================
+
+2. Programming Language Selection
+Compare Python, Java, and C++ for beginner programmers.
+Explain their main features and common applications.
+Discuss their learning difficulty and career opportunities.
+Recommend a language for a first-year engineering student.
+Justify your recommendation with practical examples.
+
+==============================================================================
+
+3. Environmental Technology
+Explain how technology can help address environmental problems.
+Discuss renewable energy, smart agriculture, and waste management.
+Describe three innovative technological solutions.
+Identify limitations that might prevent widespread adoption.
+Suggest ways students can contribute to environmental sustainability.
+
+==============================================================================
+
+4. AI and Employment
+Analyse how artificial intelligence could change future employment.
+Identify three jobs that AI may significantly transform.
+Explain how automation could create new career opportunities.
+Discuss the importance of developing adaptable professional skills.
+Recommend practical ways students can prepare for these changes.
+
+==============================================================================
+
+5. Scientific Discovery
+Imagine an AI system that discovers a previously unknown planet.
+Describe how scientists might investigate and verify the discovery.
+Explain the possible role of telescopes and machine learning.
+Discuss why scientific evidence is necessary before accepting claims.
+Write an engaging explanation suitable for college students.
+
+==============================================================================
+
+6. Digital Privacy
+Explain why digital privacy matters in everyday life.
+Describe how applications collect and process personal information.
+Identify three risks associated with careless data sharing.
+Suggest practical steps for protecting online privacy.
+Conclude with the importance of informed digital decisions.
+
+==============================================================================
+
+7. Learning Through Mistakes
+Explain why making mistakes is important when learning programming.
+Describe how debugging helps students understand their code.
+Provide an example of a common beginner programming error.
+Suggest a systematic approach to identifying and fixing bugs.
+Encourage persistence without ignoring the importance of feedback.
+
+==============================================================================
+
+8. Smart Cities
+Describe how artificial intelligence could improve smart cities.
+Discuss intelligent traffic management and energy optimisation.
+Explain how sensors can help monitor urban infrastructure.
+Identify challenges involving cost, privacy, and reliability.
+Suggest ways smart-city technology could improve public services.
+
+==============================================================================
+
+9. Scientific Reasoning
+Explain the difference between correlation and causation.
+Provide an example where two variables appear related.
+Describe why correlation alone cannot prove causation.
+Explain how researchers investigate possible causal relationships.
+Use simple examples suitable for undergraduate students.
+
+==============================================================================
+
+10. Educational Innovation
+Design an innovative digital learning platform for engineering students.
+Describe its main features and intended users.
+Explain how personalised recommendations could improve learning.
+Suggest methods for tracking progress and identifying weaknesses.
+Discuss privacy concerns and potential implementation challenges.
+
+==============================================================================
+
+11. Cloud Computing
+Explain cloud computing using simple, practical examples.
+Describe the differences between cloud storage and local storage.
+Discuss three benefits of cloud services for students.
+Explain potential concerns involving security and internet access.
+Conclude with common applications of cloud computing.
+
+==============================================================================
+
+12. Critical Thinking
+A student finds conflicting answers from two AI assistants.
+Explain why different models might produce different responses.
+Suggest a systematic method for checking both answers.
+Describe how reliable sources and evidence support conclusions.
+Conclude with recommendations for responsible AI use.
+
+==============================================================================
+
+13. Renewable Energy
+Compare solar energy and wind energy as renewable power sources.
+Explain how each technology generates electricity.
+Discuss their advantages, limitations, and environmental effects.
+Identify factors that influence their effectiveness in different regions.
+Recommend ways communities can encourage renewable energy adoption.
+
+==============================================================================
+
+14. Data Science
+Explain what data science is and why organisations use it.
+Describe the stages of collecting, cleaning, and analysing data.
+Provide an example involving student academic performance.
+Explain how data visualisation helps communicate findings.
+Discuss the importance of privacy and responsible data handling.
+
+==============================================================================
+
+15. Human Creativity and AI
+Analyse how artificial intelligence influences human creativity.
+Describe how AI can assist with writing, music, and design.
+Explain the difference between generating ideas and evaluating them.
+Discuss questions involving originality, attribution, and ownership.
+Suggest ways creators can use AI without losing their individual style.
+
+==============================================================================
+
+16. Internet of Things
+Explain the Internet of Things using everyday examples.
+Describe how connected devices collect and exchange information.
+Discuss applications in smart homes and industrial automation.
+Identify security risks associated with connected devices.
+Suggest practical measures for making IoT systems more secure.
+
+==============================================================================
+
+17. Effective Study Techniques
+Explain three evidence-informed techniques for improving learning.
+Discuss active recall, spaced repetition, and practice testing.
+Provide a practical example of each technique.
+Describe how students can incorporate them into weekly routines.
+Explain why consistency and adequate sleep also matter.
+
+==============================================================================
+
+18. AI Model Evaluation
+Explain why Al-generated responses need systematic evaluation. Describe relevance, factual accuracy, coherence, and instruction-following. Suggest a simple method for comparing two language models. Explain why a small sample may produce misleading conclusions. Recommend ways to make the evaluation more consistent and fair.
+
+==============================================================================
+
+19. Technology for Rural Education
+Explain how digital technology could improve rural education in India. Discuss online lessons, digital libraries, and Al learning assistants. Identify challenges involving connectivity, devices, and language. Suggest affordable solutions that schools and communities could implement.
+
+Explain how success could be measured through student outcomes.
+
+==============================================================================
+
+20. The Future of Artificial intelligence
+Describe three potential
+
+developments in Al over the next decade.
+
+Explain their possible effects on education and everyday life. Discuss challenges involving privacy, reliability, and employment. Distinguish realistic possibilities from unsupported predictions.
+
+Conclude with recommendations for preparing for an Al-driven future.

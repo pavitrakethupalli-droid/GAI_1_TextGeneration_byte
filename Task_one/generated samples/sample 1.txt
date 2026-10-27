@@ -1,0 +1,31 @@
+ # AI in Healthcare
+
+Artificial Intelligence (AI) is transforming modern healthcare by helping doctors diagnose diseases, monitor patients, and make better medical decisions. It improves the speed and accuracy of healthcare services.
+
+## Three Applications of AI in Healthcare
+
+1\. Medical Imaging
+
+AI helps doctors analyze X-rays, CT scans, and MRI scans. It can identify signs of diseases such as cancer, lung infections, and brain disorders. This helps doctors detect diseases early and provide timely treatment.
+
+2\. Patient Monitoring
+
+AI-powered devices and wearable sensors monitor a patient's heart rate, blood pressure, oxygen levels, and other vital signs. They can alert healthcare professionals when abnormal changes occur, allowing them to respond quickly.
+
+3\. Disease Diagnosis and Prediction
+
+AI analyzes medical records, symptoms, and laboratory test results to identify possible diseases. It can help predict health risks and support doctors in choosing suitable treatments.
+
+## How AI Helps Healthcare Professionals Make Decisions
+
+AI processes large amounts of medical data quickly and provides useful insights. It helps doctors compare test results, identify patterns, assess risks, and select appropriate treatment options. However, AI provides recommendations rather than replacing a doctor's professional judgment.
+
+## Risks of AI in Healthcare
+
+- Privacy risks: Patients' personal and medical information may be exposed or misused if data is not protected properly.
+- Incorrect predictions: AI may produce inaccurate results due to incomplete data, biased information, or technical errors.
+- Overdependence on AI: Relying entirely on AI may lead to incorrect diagnoses or unsuitable treatment decisions.
+
+## Conclusion
+
+AI is making healthcare faster, more efficient, and more accurate through medical imaging, patient monitoring, and disease prediction. However, privacy protection and the risk of incorrect predictions must be carefully managed. Human supervision is essential because doctors must verify AI results, consider each patient's needs, and make the final medical decisions.

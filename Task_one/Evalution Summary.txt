@@ -1,0 +1,16 @@
+
+Qualitative evaluation summary
+Scope: This evaluation is limited to the three responses (topics 18–20) that were visible in sufficient detail in the conversation to be copied into this package. It is not a quantitative benchmark and does not represent all 20 samples.
+
+Coherence: The three responses use numbered sections, descriptive headings, examples, and conclusions. Their overall organisation is logical and easy to follow.
+
+Relevance: Each response addresses the main prompt requirements. The model-evaluation response covers the requested criteria and comparison method; the rural-education response discusses online lessons, digital libraries, AI assistants, access barriers, solutions, and student outcomes; the future-of-AI response describes three developments, risks, realistic possibilities, and preparation.
+
+Fluency: The prose is grammatical, readable, and suited to a general college audience. Lists and examples make the material easy to scan.
+
+Repetition: The responses share a similar essay structure and repeatedly use phrases such as “Possible solutions,” “Benefits,” and “In conclusion.” Some repeated framing is useful for consistency but can make outputs feel formulaic.
+
+Failure modes and limitations: The responses are fairly long and may exceed an unstated word limit. Some claims and named initiatives should be independently verified before academic use. The rural-education response included citations and an illustrative score example; the score example was labelled illustrative rather than real data. The model-evaluation response included an interactive scorecard in the interface, which cannot be preserved as an interactive element in a plain-text file. No numerical quality scores or comparative model results were measured.
+
+A complete evaluation requires recovering and reviewing all 20 original outputs. No scores or metrics have been invented.
+
